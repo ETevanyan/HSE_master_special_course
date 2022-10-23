@@ -11,4 +11,8 @@
 [7. Feature Stores] <br>
 
 ## Задания
+### Тесты
 [Тест 1](https://forms.gle/c9pVnqnUJujramnP8)
+### Практическое домашнее задание
+[ДЗ](https://github.com/ETevanyan/HSE_master_special_course/blob/main/%5BHomework%5D%20Demand%20Forecast.ipynb)
+[Данные к ДЗ](https://github.com/ETevanyan/HSE_master_special_course/blob/main/walmart.csv.zip)
